@@ -1,0 +1,15 @@
+export interface User {
+    "access_token": string,
+    "apellidos": string,
+    "celular": string,
+    "created_at": null,
+    "documento": string,
+    "email": string,
+    "escolta_id": number,
+    "estado": boolean,
+    "id": number,
+    "nombres": string,
+    "perfil_id": number,
+    "token_type": string,
+    "updated_at": null,
+}
